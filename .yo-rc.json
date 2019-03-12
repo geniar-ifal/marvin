@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "br.edu.marvin",
+            "nativeLanguage": "pt-br"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "marvin",
+        "packageName": "br.edu.marvin",
+        "packageFolder": "br/edu/marvin",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "M2Q5ZmVkNjcxYzRkOGU3YTRlZDRmZDk4MDBkMDkxNmMwYzk3ZTljNzc2NmM0NTA2ZDEwNGQxN2I4OGE0ZGMzOTc1ZmY0MzZhMTEwZjJkOTAyN2Q1NGUxNTEwOTZkZTJlYzNjNzUwZTYxMzk2YTQ4Y2UxOTMwMGViNzMyZjdkOGM=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "pt-br",
+        "languages": ["pt-br", "en", "es"]
+    }
+}
